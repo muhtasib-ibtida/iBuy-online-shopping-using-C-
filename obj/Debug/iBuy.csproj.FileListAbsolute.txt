@@ -1,0 +1,15 @@
+F:\Semester 6\C#\Final Project\iBuy\bin\Debug\iBuy.exe.config
+F:\Semester 6\C#\Final Project\iBuy\bin\Debug\iBuy.exe
+F:\Semester 6\C#\Final Project\iBuy\bin\Debug\iBuy.pdb
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.csproj.AssemblyReference.cache
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.FLP.resources
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.Login.resources
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.Properties.Resources.resources
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.csproj.GenerateResource.cache
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.csproj.CoreCompileInputs.cache
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.exe
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.pdb
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.ProductForm.resources
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.SellerForm.resources
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.CatagoryForm.resources
+F:\Semester 6\C#\Final Project\iBuy\obj\Debug\iBuy.SellingForm.resources
